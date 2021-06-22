@@ -1,4 +1,4 @@
-# PigLatinTranslator
+# Python Pig Latin Translator
 
 Ihay everyoneyay!.
 
